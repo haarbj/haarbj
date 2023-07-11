@@ -6,7 +6,7 @@
 📫 How to reach me brodyhaar@gmail.com  
 
 ### 🌐 Socials:  
-Insert IG and LinkedIn  
+### Insert IG and LinkedIn  
 ---
 # 🖥 Tech Stack:  
 Insert Tech Stack  
