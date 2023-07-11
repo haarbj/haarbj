@@ -8,9 +8,9 @@
 🌐 Socials:  
 Insert IG and LinkedIn  
 ---
-🖥 Tech Stack:  
+#🖥 Tech Stack:  
 Insert Tech Stack  
-📊 GitHub Stats:  
+#📊 GitHub Stats:  
 Insert Github Stats  
-🏆 GitHub Trophies:  
+#🏆 GitHub Trophies:  
 Insert Github Trophies  
