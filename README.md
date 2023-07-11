@@ -5,7 +5,7 @@
 🌱 I’m currently learning web development  
 📫 How to reach me brodyhaar@gmail.com  
 
-# 🌐 Socials:  
+### 🌐 Socials:  
 Insert IG and LinkedIn  
 ---
 # 🖥 Tech Stack:  
