@@ -7,7 +7,7 @@
 
 ##🌐 Socials:  
 Insert IG and LinkedIn  
----  
+---
 ###🖥 Tech Stack:  
 Insert Tech Stack  
 ###📊 GitHub Stats:  
