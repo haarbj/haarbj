@@ -1,16 +1,16 @@
-### Hi there 👋
+📚 I am Computer Science and Applied Mathematics major at Vanderbilt University
+👟 I run NCAA D1 Cross Country as a Student-Athlete
+✏️ I’m interested in full-stack development and product management
+🔭 I’m currently working on the TaskMaster mobile / web application
+🌱 I’m currently learning web development
+📫 How to reach me brodyhaar@gmail.com
 
-<!--
-**haarbj/haarbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🌐 Socials:
+Insert IG and LinkedIn
+---
+###🖥 Tech Stack:
+Insert Tech Stack
+###📊 GitHub Stats:
+Insert Github Stats
+###🏆 GitHub Trophies:
+Insert Github Trophies
