@@ -1,9 +1,9 @@
-📚 I am Computer Science and Applied Mathematics major at **Vanderbilt University**
+📚 I am Computer Science and Applied Mathematics major at **Vanderbilt University**<br>
 👟 I run NCAA D1 Cross Country as a Student-Athlete<br>
-✏️ I’m interested in **full-stack development** and **product management**
-🔭 I’m currently working on the **[ReformRising](https://github.com/haarbj/ReformRising)** website 
-🌱 I’m currently learning **web development**
-📫 How to reach me **brodyhaar@gmail.com**
+✏️ I’m interested in **full-stack development** and **product management**<br>
+🔭 I’m currently working on the **[ReformRising](https://github.com/haarbj/ReformRising)** website<br>
+🌱 I’m currently learning **web development**<br>
+📫 How to reach me **brodyhaar@gmail.com**<br>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brodyhaar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brodyjghaar) 
