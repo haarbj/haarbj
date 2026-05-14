@@ -1,6 +1,5 @@
 📚 I am Computer Science, Applied Mathematics, and German Studies graduate from **Vanderbilt University**<br>
 ✏️ I’m interested in **full-stack development** and **product management**<br>
-🔭 I’m currently working on the **[Tether](https://github.com/haarbj/Tether)** website and the **[TaskMaster](https://github.com/haarbj/taskmaster-site)** app<br>
 📫 How to reach me **brodyhaar@gmail.com**<br>
 
 ### 🌐 Socials:
