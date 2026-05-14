@@ -1,7 +1,6 @@
-📚 I am Computer Science, Applied Mathematics, and German Studies major at **Vanderbilt University**<br>
+📚 I am Computer Science, Applied Mathematics, and German Studies graduate from **Vanderbilt University**<br>
 ✏️ I’m interested in **full-stack development** and **product management**<br>
 🔭 I’m currently working on the **[Tether](https://github.com/haarbj/Tether)** website and the **[TaskMaster](https://github.com/haarbj/taskmaster-site)** app<br>
-🌱 I’m currently learning **Database Management**, **Data Manipulation**, and **Technology Entrepreneurship**<br>
 📫 How to reach me **brodyhaar@gmail.com**<br>
 
 ### 🌐 Socials:
