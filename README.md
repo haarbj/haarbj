@@ -46,7 +46,7 @@ An AI platform that creates personalized learning experiences, helping people ma
 
 ## 📈 Most Used Languages
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=haarbj&hide=GLSL&layout=compact&theme=tokyonight)](https://github.com/haarbj?tab=repositories)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=haarbj&hide=GLSL&layout=compact&theme=tokyonight)](https://github.com/haarbj?tab=repositories "Repositories")
 
 ---
 
@@ -58,4 +58,4 @@ An AI platform that creates personalized learning experiences, helping people ma
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=haarbj&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=haarbj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
